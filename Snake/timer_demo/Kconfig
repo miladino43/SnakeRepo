@@ -1,0 +1,14 @@
+###############################################################################
+# Please modify this file if you want to configure your own application.
+# You can uncommon and/or change the following Kconfig elements.
+###############################################################################
+
+
+if USER_APPS_TIMER_DEMO
+	comment "No additional options for TIMER_DEMO"
+
+# 	config USER_APPS_TIMER_DEMO_OPTION0
+#	bool "option0"
+#	help
+#	  Help text
+endif

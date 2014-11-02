@@ -1,0 +1,20 @@
+
+Default Log file Created: snake.log
+Default Random Seed is 1414904944
+NUM_SNAKE = 0
+
+Default Snake Head at (8,38)
+Default Snake Body at (8,37)
+Default Snake Tail at (8,36)
+
+Level: Default
+	 Width: 40
+	 Height: 12
+
+The moving method for SNAKE#0 is: 1
+The moving method for SNAKE#0 is: 2
+The moving method for SNAKE#0 is: 3
+The moving method for SNAKE#0 is: 0
+Snake #1: Death from snake collision!
+Final Score for Snake #1 is: 42
+Final Length for Snake #1 is: 45
